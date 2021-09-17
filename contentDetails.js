@@ -143,5 +143,5 @@ let httpRequest = new XMLHttpRequest()
     }
 }
 
-httpRequest.open('GET', 'https://5d76bf96515d1a0014085cf9.mockapi.io/product/'+id, true)
+httpRequest.open('GET', 'https://6144ad19411c860017d2560b.mockapi.io/ProductName/'+id, true)
 httpRequest.send()  
