@@ -85,7 +85,7 @@ httpRequest.onreadystatechange = function() {
 };
 httpRequest.open(
   "GET",
-  "https://6144ad19411c860017d2560b.mockapi.io/ProductName",
+  "https://6144ad19411c860017d2560b.mockapi.io/ProdCat",
   true
 );
 httpRequest.send();
